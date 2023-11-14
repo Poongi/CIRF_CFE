@@ -15,7 +15,7 @@ In addition, our approach provides an advantage over the counterfactual and semi
 CIRF exhibits remarkable performance in terms of plausibility across various domains, including tabular and image datasets.
 
 One paragraph of project description goes here.
-![Alt text](/figure_2.pdf "Optional title")
+![Alt text](figure_2.png "Optional title")
 
 
 ## Setting
