@@ -22,15 +22,13 @@ One paragraph of project description goes here.
 Our code was implemented in Ubuntu OS.
 
 
-To install the necessary libraries, run the following commands:
-
-```bash
-pip install torch==1.12.1
-pip install timm==0.6.12
-pip install pillow
-pip install tqdm
-pip install open_clip_torch
-
 ### Library
-Describe how to set up the environment, install packages, or any other necessary steps.
+
+To install the necessary libraries, run the following commands:
+```bash
+torch==1.8.1
+ctgan==0.6.0
+
+## Quick start
+See quick_start.ipynb
 
