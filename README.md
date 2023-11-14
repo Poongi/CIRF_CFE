@@ -14,7 +14,7 @@ One paragraph of project description goes here.
 
 ## Authors
 
-* **Author Name** - *Initial work* - [Username](https://github.com/Username)
+* **Hee-Dong Kim** **Yeong-Joon Ju** **Jung-Ho Hong** and **Seong-Whan Lee** - *Initial work* - [Username](https://github.com/Username)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
