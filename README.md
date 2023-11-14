@@ -32,3 +32,6 @@ ctgan==0.6.0
 ## Quick start
 See quick_start.ipynb
 
+## Results
+The modifications of related features when altering class to "Gray hair"
+![Alt text](figure_6.png "Optional title")
