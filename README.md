@@ -27,6 +27,7 @@ To install the necessary libraries, run the following commands:
 ```bash
 torch==1.8.1
 ctgan==0.6.0
+```
 
 ## Quick start
 See quick_start.ipynb
