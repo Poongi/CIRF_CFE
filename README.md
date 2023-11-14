@@ -33,5 +33,9 @@ ctgan==0.6.0
 See quick_start.ipynb
 
 ## Results
-The modifications of related features when altering class to "Gray hair"
+The modifications of related features when altering class to "Gray" hair.
 ![Alt text](figure_6.png "Optional title")
+
+The modifications of relatively low related features when altering class to "Brown" and "Blond" hair.
+
+![Alt text](figure_7.png "Optional title")
