@@ -4,7 +4,7 @@
 Counterfactual explanation (CFE) has gained increasing interest in recent years because it provides actionable counterexamples and enhances the interpretability of the decision boundaries in deep neural networks. 
 An ideal CFE should provide both plausible and practical examples that can alter the decision of a classifier as a plausible CFE grounded in the real-world.
 We propose a framework i.e., CFE for identifying related features (CIRF) to improve the plausibility.
-CIRF comprises the following two steps: \textit{i}) searching for the direction vectors that contain class information; \textit{ii}) investigating an optimal point using a projection-point, which determines the magnitude of manipulation along the direction. 
+CIRF comprises the following two steps: i) searching for the direction vectors that contain class information; ii) investigating an optimal point using a projection-point, which determines the magnitude of manipulation along the direction. 
 CIRF utilizes related features and the property of a latent space in a generative model, thereby highlighting the importance of related features. 
 The versatility of CIRF is validated by performing experiments using various domains and datasets, and the two interchangeable steps.
 In addition, our approach provides an advantage over the counterfactual and semi-factual explanation manners, thereby enhancing the human comprehension of underlying reasons of decisions.
