@@ -23,7 +23,6 @@ Our code was implemented in Ubuntu OS.
 
 
 ### Library
-
 To install the necessary libraries, run the following commands:
 ```bash
 torch==1.8.1
