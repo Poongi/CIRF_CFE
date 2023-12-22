@@ -1,5 +1,9 @@
-# pre-trained model for CelebA-HQ (StyleSwin)
+# Pre-trained model for CelebA-HQ (StyleSwin)
 CelebAHQ_256.pt
 
-# log files
+# Log files
 events.out*
+
+# Environment loading file
+Docker_00.sh
+
